@@ -37,7 +37,7 @@ This guide provides step-by-step instructions for installing StudentSystem.
    
 <img width="1400" alt="截屏2024-12-13 22 30 44" src="https://github.com/user-attachments/assets/5cd258c6-10aa-49e2-b77f-b1fdd585b212" />
 
-6. **Click the address in a browser:**
+6. **Open your web browser and enter the following address:**
 
    ```python
    http://127.0.0.1:5000
